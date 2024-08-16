@@ -1,0 +1,3 @@
+#i want to hide doc and txt files in my project
+*.doc
+*.txt
